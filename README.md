@@ -9,6 +9,11 @@
 * seaborn == 0.10.0
 * statsmodels == 0.11.0
 
+* R version == 4.0.2
+
 ## Usage
 基本的にJupyter Notebook上で動かすことを想定している。\
-また、6章くらいまではだいぶ説明を省いている。
+また、第6章くらいまではだいぶ説明を省いている。\
+第7章でpyperを使用してPythonとRを連携させて、Rで実行している箇所がある。\
+
+pyper.ipynbにpyperの簡単な実行例を記載してある。
